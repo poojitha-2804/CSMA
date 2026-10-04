@@ -15,6 +15,11 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+## Student Information
+>>>>>>> 3f754dcaf0fda980e989a0e72bd9a663bb840ddb
 poojitha csm b
 =======
 
